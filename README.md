@@ -64,3 +64,13 @@ Create a new folder called routes
 Inside new folder, create a file called fruits.js
 Define your functions
 
+Create .env file
+- Name PORT=3000 make sure there are no spaces
+
+In terminal, npm install dotenv
+
+Amend index.js
+
+In terminal, node index.js
+
+In terminal, npm install cors - allows header to take in information from another source
