@@ -9,7 +9,7 @@ app.get('/', (req, res) => {
 })
 
 // Middleware -
-app.us(cors())
+app.js(cors())
 app.use(express.json());
 app.use('/fruits', fruits); //http://localhost:3000/fruits
 
